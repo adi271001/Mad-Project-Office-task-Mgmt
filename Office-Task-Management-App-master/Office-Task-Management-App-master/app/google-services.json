@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985617758860",
+    "project_id": "office-task-management-a-93e62",
+    "storage_bucket": "office-task-management-a-93e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985617758860:android:54b1a229d4fc8ef59899a9",
+        "android_client_info": {
+          "package_name": "com.example.officetaskmanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985617758860-e8c7h0vk5gmi8km5an986c751saumbhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5rZmzi5Pwh5yRIQbmVN9oTgiB8ytm_UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985617758860-e8c7h0vk5gmi8km5an986c751saumbhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
